@@ -18,5 +18,5 @@ WebSocketボックスは websocket-client モジュールを使っています�
 
 ```
 virtualenv env
-/env/bin/pip install websocket-client --target lib --no-compile
+./env/bin/pip install websocket-client --target lib --no-compile
 ```
